@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yatharth1011
-- 👀 I’m interested in JavaScript and music.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently a PCM student.
 - 💞️ I’m looking to collaborate on programming and web development.
 - 📫 Reach me on yatharth.shrivastava1011@gmail.com
